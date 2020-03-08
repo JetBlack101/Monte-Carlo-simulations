@@ -1,2 +1,2 @@
-# Monte-Carlo-simulations
+# Monte Carlo simulations
 Different Monte Carlo simulations.
